@@ -14,7 +14,7 @@ These events can be deleted when nolonger needed.
 ## Installation
 
 Clone the repository:<br>
-   &emsp; git clone https://github.com/swalusimbi/react-todo-list.git
+   &emsp; git clone https://github.com/swalusimbi/django-todo.git
    
 Change into the project directory:<br>
    &emsp; cd react-todo-list
