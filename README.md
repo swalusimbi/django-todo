@@ -17,7 +17,7 @@ Clone the repository:<br>
    &emsp; git clone https://github.com/swalusimbi/django-todo.git
    
 Change into the project directory:<br>
-   &emsp; cd react-todo-list
+   &emsp; cd django-todo
 
 Install the dependencies:<br>
    &emsp; pip install
